@@ -1,0 +1,6 @@
+{
+  "name": "VEX ASIA - Jagoron TV | VOX ANIMATION | V-VORTEX",
+  "description": "VEX ASIA parent conglomerate powering Jagoron TV (Online Media Cell), VOX ANIMATION (Anime & Manga Studio), and V-VORTEX (Creative Agency & IT Sector) headquartered in Dhaka, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

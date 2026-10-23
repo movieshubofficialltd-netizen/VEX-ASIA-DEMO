@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Crisp rendering filter if needed or clean vectors -->
+  </defs>
+  <!-- Background is 100% transparent -->
+  
+  <!-- White V Shape -->
+  <polygon points="44.49,106.00 196.87,106.00 256.00,293.30 315.13,106.00 467.51,106.00 307.98,406.00 204.02,406.00" fill="#FFFFFF" />
+  
+  <!-- Green Stroke 1 (Top-Left to Bottom-Right) -->
+  <polygon points="109.57,106.00 196.87,106.00 407.98,406.00 309.57,406.00" fill="#9fe62e" fill-opacity="0.88" />
+  
+  <!-- Green Stroke 2 (Top-Right to Bottom-Left) -->
+  <polygon points="315.13,106.00 402.43,106.00 202.43,406.00 104.02,406.00" fill="#9fe62e" fill-opacity="0.88" />
+  
+  <!-- Overlapping Center Intersection Diamond -->
+  <polygon points="256.00,192.51 300.05,256.00 256.00,319.49 211.95,256.00" fill="#7cb821" fill-opacity="0.95" />
+</svg>

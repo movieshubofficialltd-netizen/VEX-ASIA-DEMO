@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- VEX ASIA Official Emblem: Clean Crisp Transparent Vector -->
+  <!-- White 'V' shape -->
+  <polygon points="46,108 196,108 256,318 316,108 466,108 316,404 196,404" fill="#FFFFFF" />
+  
+  <!-- Lime Green Stroke 1 (Top-Left to Bottom-Right) -->
+  <polygon points="110,108 196,108 402,404 316,404" fill="#b6ff3b" />
+  
+  <!-- Lime Green Stroke 2 (Top-Right to Bottom-Left) -->
+  <polygon points="316,108 402,108 196,404 110,404" fill="#b6ff3b" />
+  
+  <!-- Shaded Intersection Diamond (Center Overlap) -->
+  <polygon points="256,193 299,256 256,318 213,256" fill="#84cc23" />
+</svg>
